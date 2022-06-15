@@ -4,7 +4,7 @@
     height: 100vh;
     aside {
         flex: 7;
-        background: #835afd;
+        background: #252525;
         color: #fff;
         display: flex;
         flex-direction: column;
@@ -41,6 +41,7 @@
         text-align: center;
         >img {
             align-self: center;
+            width: 180px;
         }
         h2 {
             font-size: 24px;
